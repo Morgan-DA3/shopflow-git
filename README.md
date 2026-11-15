@@ -20,11 +20,5 @@ Les règles métier détaillées sont dans le dossier `docs`.
 - R6 : un code promo donne de 1 à 50 % de remise sur le sous-total.
 
 
-## Équipe
- 
-- Salma : responsable qualité
-- Nadia : responsable produit
-- Yassine : développeur
-- Karim : support client
 
 Feuille de route
