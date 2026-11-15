@@ -9,3 +9,7 @@ Prérequis : JDK 21 et Maven 3.9.
 ```
 mvn test
 ```
+## Règles du panier
+
+- R3 : au plus 10 unites d'un même produit.
+- R5 : livraison 30 DH, offerte à partir de 500 DH d'achats.
