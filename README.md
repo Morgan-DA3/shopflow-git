@@ -1,6 +1,7 @@
 # ShopFlow
  
 Boutique en ligne de matériel informatique : catalogue, panier et commande.
+Livraison partout au Maroc
  
 ## Construire et tester
  
